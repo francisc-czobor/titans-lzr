@@ -79,7 +79,8 @@ position:absolute;
 	text-decoration-color: #93d0b5;
   font-size: 1.20em !important;
   font-family: monospace;
-  font-style: solid; 
+  font-style: solid;
+  text-align: justify;
 }
 
 .special {
@@ -139,4 +140,14 @@ position:absolute;
   border-radius: 50%;
   border: white solid 7px;
   box-shadow: 0 1px 10px rgba(32, 33, 36, 0.28);
+}
+
+.compart {
+  width: 650px;
+  height: 400px;
+}
+
+.compart2 {
+  width: 1000px;
+  height: 1000px;
 }
